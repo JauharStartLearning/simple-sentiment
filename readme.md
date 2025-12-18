@@ -1,5 +1,5 @@
 Download ZIP
-Kunjungi: https://github.com/username/sentimen
+Kunjungi: https://github.com/JauharStartLearning/simple-sentiment
 Klik tombol "Code" → "Download ZIP"
 Ekstrak file ZIP ke folder pilihan
 
